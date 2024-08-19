@@ -74,7 +74,7 @@
 
   function FoundItemsDirective() {
     return {
-      templateUrl: 'foundItems.html',
+      templateUrl: 'founditems.html',
       scope: {
         found: '<',
         onRemove: '&'
